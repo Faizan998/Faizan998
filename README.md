@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **NEXT-JS NEST-JS Mysql**
 
-- 💬 Ask me about **Mern Stack Developer**
+- 💬 Ask me about **Mern Stack**
 
 - 📫 How to reach me **alifaizan15245@gmail.com**
 
