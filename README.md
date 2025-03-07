@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **NEXT-JS NEST-JS Mysql**
+- 🌱  **NEXT-JS subabase prisma bervo**
 
 - 🤝 I am a dedicated and enthusiastic learner specializing in MERN Stack development. **With a deep passion for working with React, JavaScript, Node.js, I continuously strive to expand my knowledge and expertise in these technologies. I firmly believe that the pursuit of knowledge is an ongoing journey, and I approach it with unwavering enthusiasm. I am constantly driven to explore new concepts, frameworks, and methodologies to enhance my skill set and stay at the forefront of industry advancements.**
 
