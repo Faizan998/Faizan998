@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faizan998&label=Profile%20views&color=0e75b6&style=flat" alt="faizan998" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="[https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40oninross%2Fdo-full-stack-developers-exist-or-are-they-just-wishful-thinking-2b7f5863af63&psig=AOvVaw2yKJ-us65fY5X45ZORjO_r&ust=1748421727694000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPDaqKGhw40DFQAAAAAdAAAAABAM)" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱  **NEXT-JS subabase prisma bervo**
 
