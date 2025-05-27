@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faizan998&label=Profile%20views&color=0e75b6&style=flat" alt="faizan998" /> </p>
 
-<p align="left"> target="blank"><a  href="https://www.linkedin.com/in/er-faizan-ali-79959816a/ ><img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="faizan998" /> </a></p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="" /></a> </p>
 
 - 🌱  **NEXT-JS subabase prisma bervo**
 
@@ -21,8 +21,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/er-faizan-ali-79959816a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/er-faizan-ali-79959816a/" height="30" width="40" /></a>
-<a c" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fndmeaa.com%2FWeb-development-Service&psig=AOvVaw2piuNtcnAZYyWMX58ukqu_&ust=1748421390015000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIi4jbOfw40DFQAAAAAdAAAAABAd" alt="mr.______faiz" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/er-faizan-ali-79959816a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/er-faizan-ali-79959816a/" height="30" width="40" /></a>
+<a href="https://instagram.com/mr.______faiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.______faiz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
