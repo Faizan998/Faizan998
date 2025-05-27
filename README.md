@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/er-faizan-ali-79959816a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/er-faizan-ali-79959816a/" height="30" width="40" /></a>
-<a href="https://instagram.com/mr.______faiz" target="blank"><img align="center" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHZxOWRwOXBodHE3Ym5qamhkZ3FvMjFpZm80am1oMmVoYjE4eDAxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="mr.______faiz" height="30" width="40" /></a>
+<a href="https://instagram.com/mr.______faiz" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fndmeaa.com%2FWeb-development-Service&psig=AOvVaw2piuNtcnAZYyWMX58ukqu_&ust=1748421390015000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIi4jbOfw40DFQAAAAAdAAAAABAd" alt="mr.______faiz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
